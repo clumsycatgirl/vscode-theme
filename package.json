@@ -2,6 +2,9 @@
   "name": "killme",
   "displayName": "killme",
   "description": "",
+	"repository": {
+		"url": "https://github.com/clumsycatgirl/vscode-theme"
+	},
   "version": "0.0.1",
   "scripts": {
     "test": "vscode-test"
