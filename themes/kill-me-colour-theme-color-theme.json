@@ -2119,6 +2119,12 @@
 		"settings": {
 			"foreground": "#2DACFC"
 		}
+	},
+	{
+		"scope": "source.ignore",
+		"settings": {
+			"foreground": "#7F848E"
+		}
 	}
   ],
   "colors": {
