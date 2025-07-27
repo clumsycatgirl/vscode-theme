@@ -1,0 +1,32 @@
+{
+  "name": "killme",
+  "displayName": "killme",
+  "description": "",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "vscode-test"
+  },
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "kill-me-colour-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kill-me-colour-theme-color-theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "@vscode/test-cli": "^0.0.11",
+    "@vscode/test-electron": "^2.5.2",
+    "esbuild": "^0.25.8"
+  },
+  "dependencies": {
+    "vsce": "^2.15.0"
+  }
+}
