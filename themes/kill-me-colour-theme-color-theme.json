@@ -2125,6 +2125,12 @@
 		"settings": {
 			"foreground": "#7F848E"
 		}
+	},
+	{
+		"scope": "meta.paragraph.markdown",
+		"settings": {
+			"foreground": "#E6E6FA"
+		}
 	}
   ],
   "colors": {
