@@ -1,12 +1,13 @@
 {
-    "name": "killme",
+    "name": "clumsyctgirl-themes",
     "publisher": "clumsycatgirl",
-    "displayName": "killme",
+    "displayName": "ClumsyCatGirl Themes",
+	"icon": "assets/icon.png",
     "description": "",
     "repository": {
         "url": "https://github.com/clumsycatgirl/vscode-theme"
     },
-    "version": "0.0.3",
+    "version": "0.1.0",
     "scripts": {
         "test": "vscode-test",
 		"package": "npx vsce package"
