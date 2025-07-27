@@ -2131,6 +2131,12 @@
 		"settings": {
 			"foreground": "#E6E6FA"
 		}
+	},
+	{
+		"scope": "entity.name.tag.html",
+		"settings": {
+			"foreground": "#2DACFC"
+		}
 	}
   ],
   "colors": {

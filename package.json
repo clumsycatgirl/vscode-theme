@@ -7,11 +7,11 @@
     "repository": {
         "url": "https://github.com/clumsycatgirl/vscode-theme"
     },
-    "version": "0.1.0",
+    "version": "0.1.1",
     "scripts": {
-        "test": "vscode-test",
-		"package": "npx vsce package"
-    },
+		"test": "vscode-test",
+		"package": "npx vsce package --out dist/clumsyctgirl-themes-v0.1.1.vsix"
+	},
     "engines": {
         "vscode": "^0.102.0"
     },
